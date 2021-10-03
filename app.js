@@ -1,3 +1,8 @@
+/* app.js - Funcionality of site.
+Oscar Quispe
+301182317
+10/03/2021*/
+
 // install 3rd party packages
 let createError = require('http-errors');
 let express = require('express');
